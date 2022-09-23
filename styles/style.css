@@ -11,3 +11,7 @@ h1 {
   font-style:italic;
   text-decoration:underline;
 }
+
+img {
+  background-color:#aaa;
+}
